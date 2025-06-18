@@ -11,11 +11,11 @@
 static struct ObjectHitbox sGoombaHitbox = {
     /* interactType:      */ INTERACT_BOUNCE_TOP,
     /* downOffset:        */ 0,
-    /* damageOrCoinValue: */ 1,
+    /* damageOrCoinValue: */ 25,
     /* health:            */ 0,
     /* numLootCoins:      */ 1,
     /* radius:            */ 72,
-    /* height:            */ 50,
+    /* height:            */ 100,
     /* hurtboxRadius:     */ 42,
     /* hurtboxHeight:     */ 40,
 };
